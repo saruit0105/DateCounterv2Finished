@@ -1,0 +1,11 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+
+.line {
+  display: flex; /* Enables flexbox layout */
+  flex-direction: row; /* Ensures items are aligned in a row */
+  justify-content: center; /* Centers items horizontally */
+  align-items: center; /* 
+}
